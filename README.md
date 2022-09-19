@@ -5,7 +5,9 @@ course. In this project, I implemented Binary Search Tree and
 self-balancing Red-Black Tree data structures. The main application
 of this program creates many instances of both types of these trees
 with randomized inputs and compares the average heights of these trees 
-to demonstrate the superior efficiency of Red-Black Trees. 
+to demonstrate the superior efficiency of Red-Black Trees. I am 
+particularly proud of the test suite I developed while creating
+this project. 
 
 This project has the following folder tree:
 

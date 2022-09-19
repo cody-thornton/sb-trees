@@ -31,12 +31,9 @@ tests\              : All code for Red-Black Tree test harnesses.<br>
 
 ## How to Set Up This Project
 
-This project should work identically to the homeworks. First, download the 
-RedBlackTree.zip file uploaded to Moodle. Opening this file should decompress
-its contents into the Folder/File RedBlackTree. Open this folder using Visual
-Studio Code. Open an Integrated Terminal via the build folder. Press CTRL+SHIFT+B
-to compile the code. The build folder should now contain the program's 
-executables. Enter the command ./run_tests to verify that all tests pass. 
+Open this project using Visual Studio Code. Open an Integrated Terminal via the build
+folder. Press CTRL+SHIFT+B to compile the code. The build folder should now contain 
+the program's executables. Enter the command ./run_tests to verify that all tests pass. 
 Enter ./run_app for a demonstration of Red-Black Tree's efficiency compared 
 to Binary Search Trees. Source code can be reviewed in the main.cpp, RBTree.h,
 RBTree.cpp, and test_RBTree.cpp files. 

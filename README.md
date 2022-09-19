@@ -1,4 +1,4 @@
-# Project: Red-Black Tree Implementation and Asymptotic Analysis
+# Red-Black Tree Implementation and Asymptotic Analysis
 
 This project was created as my final project in my Data Structures
 course.

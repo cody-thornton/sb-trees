@@ -1,7 +1,7 @@
-# Project: Red-Black Tree Implementation
+# Project: Red-Black Tree Implementation and Asymptotic Analysis
 
 This project was created as my final project in my Data Structures
-course. Class and Semester: CSPB2270 Fall 2020
+course.
 
 This project has the following folder tree:
 
@@ -21,10 +21,8 @@ CMakeLists.txt      : Ignore this file.<br>
 CMakeLists.txt.in   : Ignore this file.<br>
 README.md           : Readme file.<br>
 app\                : Application folder.<br>
-main.cpp            :     Code demonstrating Red-Black<br>
-                            Tree effiency.<br>
-build\              : Build folder to build the project.<br> 
-                            Executables are here.<br>
+main.cpp            :     Code demonstrating Red-Black Tree effiency.<br>
+build\              : Build folder to build the project. Executables are here.<br>
 code\               : All code for Red-Black Tree implementation.<br>
 RBTree.cpp          :     Red-Black Tree (RBTree) class source file<br>
 RBTree.h            :     Red-Black Tree (RBTree) class header file<br>

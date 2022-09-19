@@ -21,13 +21,13 @@ CMakeLists.txt      : Ignore this file.<br>
 CMakeLists.txt.in   : Ignore this file.<br>
 README.md           : Readme file.<br>
 app\                : Application folder.<br>
-main.cpp            : &emsp; Code demonstrating Red-Black Tree effiency.<br>
+&emsp; main.cpp            :   Code demonstrating Red-Black Tree effiency.<br>
 build\              : Build folder to build the project. Executables are here.<br>
 code\               : All code for Red-Black Tree implementation.<br>
-RBTree.cpp          : &emsp; Red-Black Tree (RBTree) class source file<br>
-RBTree.h            : &emsp; Red-Black Tree (RBTree) class header file<br>
+&emsp; RBTree.cpp          :   Red-Black Tree (RBTree) class source file<br>
+&emsp; RBTree.h            :   Red-Black Tree (RBTree) class header file<br>
 tests\              : All code for Red-Black Tree test harnesses.<br>
-test_RBTree.cpp     : &emsp; Tests and related helper functions source file.<br>
+&emsp; test_RBTree.cpp     :    Tests and related helper functions source file.<br>
 
 ## How to Set Up This Project
 
